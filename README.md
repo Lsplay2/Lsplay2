@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there i'm Aleksey 👋
+
+### :man_technologist: About Me :
+I am a Java QA automation.
+
+
 
 <!--
 **Lsplay2/Lsplay2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
