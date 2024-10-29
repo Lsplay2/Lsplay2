@@ -2,6 +2,12 @@
 
 ### :man_technologist: About Me :
 I am a Java QA automation.
+- :telescope: I’m working as a Java AQA.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :mailbox:How to reach me: lsplayl888@gmail.com
+
 
 
 
