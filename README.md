@@ -4,9 +4,9 @@
 I am a Java QA automation.
 - :telescope: I’m working as a Java AQA.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I am studying testing techniques and new ways of testing.
 
-- :mailbox:How to reach me: lsplayl888@gmail.com
+- :mailbox: How to reach me: lsplayl888@gmail.com
 
 
 
